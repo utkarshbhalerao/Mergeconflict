@@ -4,6 +4,7 @@ public class FirstProgram {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello World");
+		System.out.println("My First Git Demo");
 
 	}
 
